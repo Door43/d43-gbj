@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbj:home|Door43 (gbj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbj|d43-gbj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbj/archive/master.zip|d43-gbj.zip]]
+
+**Recent Changes**
+{{changes>ns = gbj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbj|Ethnologue data]]
+
